@@ -8,7 +8,7 @@ This means it will be hosted on the Flutter Community GitHub organization, and y
 
 ## Steps to transfer
 
-1. TODO (CREATE ISSUE WITH TEMPLATE)
+1. TODO ([CREATE ISSUE WITH TEMPLATE USING THIS LINK](https://github.com/fluttercommunity/community/issues/new?assignees=jeroen-meijer&labels=package+proposal&template=----package-proposal.md&title=Package+Proposal%3A+%5BPACKAGE+NAME%5D))
 2. TODO (GET APPROVED BY MODERATOR, and added as Flutter Community member)
 3. TODO (TRANSFER PACKAGE THROUGH GITHUB TO FLUTTER COMMUNITY)
 4. TODO (ADD MAINTAINER INFO IN pubspec.yaml)
